@@ -20,6 +20,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
