@@ -14,10 +14,12 @@
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
+| [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
