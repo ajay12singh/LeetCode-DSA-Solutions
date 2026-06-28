@@ -16,6 +16,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,14 +58,17 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Ordered Set
 |  |
 | ------- |
