@@ -47,6 +47,7 @@
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -70,6 +71,7 @@
 | [0069-sqrtx](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Dynamic Programming
 |  |
 | ------- |
