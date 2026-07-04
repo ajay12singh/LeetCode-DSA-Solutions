@@ -12,8 +12,8 @@ public:
             auto it = lower_bound(heaters.begin(), heaters.end(), houses[i]);
             
 
-            int distRight = (it == heaters.end()) ? INT_MAX : *it - houses[i];
-            int distLeft = (it == heaters.begin()) ? INT_MAX : houses[i] - *prev(it);
+            int distRight = (it == heaters.end()) ? INT_MAX : abs(*it - houses[i]);
+            int distLeft = (it == heaters.begin()) ? INT_MAX : abs(*prev(it)-houses[i] );
            
             current_ans = min(distLeft, distRight);
             ans = max(ans,current_ans);
