@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0136-single-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0162-find-peak-element) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
