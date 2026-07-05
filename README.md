@@ -20,6 +20,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -36,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
+| [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Heap (Priority Queue)
@@ -119,4 +121,5 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
+| [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
