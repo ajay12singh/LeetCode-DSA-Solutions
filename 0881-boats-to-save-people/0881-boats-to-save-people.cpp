@@ -4,7 +4,7 @@ public:
         sort(people.begin(),people.end());
         int n = people.size();
 
-        int p1 = 0;
+        int p1= 0;
         int p2 = n-1;
 
         int count=0;
@@ -16,13 +16,11 @@ public:
                 p2--;
             }
             else{
-                if(people[p2]<=limit) {
+                
                     count++;
                     p2--;
-                }
-                else{
-                    count++;
-                }
+                
+               
         
                 
             }
