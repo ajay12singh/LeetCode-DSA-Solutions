@@ -19,6 +19,7 @@
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
@@ -138,9 +140,14 @@
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
