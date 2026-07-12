@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +142,7 @@
 | [0016-3sum-closest](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
