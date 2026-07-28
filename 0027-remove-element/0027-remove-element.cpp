@@ -8,11 +8,11 @@ public:
             if(nums[p2] != val){
                 nums[p1] = nums[p2];
                 p1++;
-                p2++;
+                
             }
-            else{
+            
                 p2++;
-            }
+            
         }
         return p1;
             }
