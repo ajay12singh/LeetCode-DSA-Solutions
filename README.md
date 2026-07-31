@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
@@ -52,6 +53,7 @@
 | [0075-sort-colors](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0561-array-partition) |
@@ -77,6 +79,7 @@
 | [0275-h-index-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +164,7 @@
 | [0283-move-zeroes](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
