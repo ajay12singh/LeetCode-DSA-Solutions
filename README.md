@@ -34,6 +34,7 @@
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -171,6 +172,7 @@
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
