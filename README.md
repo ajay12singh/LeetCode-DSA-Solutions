@@ -43,6 +43,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
@@ -175,6 +176,7 @@
 | [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Enumeration
 |  |
