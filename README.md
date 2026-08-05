@@ -152,6 +152,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -201,6 +202,11 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
