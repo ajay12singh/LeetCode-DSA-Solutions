@@ -1,35 +1,43 @@
 class Solution {
-    bool allzero(vector<int>& map) {
-        for (int &i : map) {
-            if (i != 0) return false;
+private:
+    bool allZero(vector<int>& counter) {
+        for(int &i : counter) {
+            if(i != 0)
+                return false;
         }
         return true;
     }
 public:
-    vector<int> findAnagrams(string s, string p) {
-        int n = s.length();
-        int m = p.length();
+    vector<int> findAnagrams(string txt, string pat) {
+        int n = txt.length();
+        int m = pat.length();
+        
+        vector<int> counter(26, 0);
+        
+        for(int i = 0; i < pat.length(); i++) {
+            char ch = pat[i];
+            counter[ch - 'a']++;
+        }
+        
+        int i = 0, j = 0;
         vector<int> result;
-        if (n < m) return result;
-
-        vector<int> map(26, 0);
-        for (int i = 0; i < m; i++) {
-            map[p[i] - 'a']++;
-            map[s[i] - 'a']--;
-        }
-
-        if (allzero(map)) {
-            result.push_back(0);
-        }
-
-        for (int i = m; i < n; i++) {
-            map[s[i] - 'a']--;
-            map[s[i - m] - 'a']++;
-            if (allzero(map)) {
-                result.push_back(i - m + 1);
+        int k = pat.length();
+        
+        while(j < n) {
+            counter[txt[j] - 'a']--;
+            
+            if(j - i + 1 == k) {
+                if(allZero(counter)) {
+                    result.push_back(i);
+                }
+                
+                counter[txt[i] - 'a']++;
+                i++;
             }
+            
+            j++;
         }
-
+        
         return result;
     }
 };
