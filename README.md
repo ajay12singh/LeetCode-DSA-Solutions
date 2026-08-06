@@ -153,6 +153,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
@@ -203,10 +205,12 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
 ## String
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
