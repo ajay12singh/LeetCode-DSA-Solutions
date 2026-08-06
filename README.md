@@ -45,6 +45,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2090-k-radius-subarray-averages](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -208,6 +209,7 @@
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
+| [2090-k-radius-subarray-averages](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## String
 |  |
 | ------- |
