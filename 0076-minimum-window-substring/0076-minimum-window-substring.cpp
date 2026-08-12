@@ -8,7 +8,7 @@ public:
             
         unordered_map<char, int> mp;
         
-        // Store frequency of characters of string t in map
+       
         for (char &ch : t)
             mp[ch]++;
             
@@ -18,7 +18,6 @@ public:
         int minWindowSize = INT_MAX;
         int start_i = 0;
         
-        // Story Starts
         while (j < n) {
             char ch = s[j];
             
@@ -27,7 +26,7 @@ public:
                 
             mp[ch]--;
             
-            // Try to shrink the window from the left (i) when all characters are found
+            
             while (requiredCount == 0) {
                 int currWindowSize = j - i + 1;
                 
