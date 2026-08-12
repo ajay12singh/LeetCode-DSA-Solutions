@@ -15,13 +15,10 @@ public:
 
            
 
-            while(product>=k && i<=j){
+            while(product>=k ){
 
                 product = product/nums[i];
-            
-            
-               
-
+        
                 i++;
 
 
