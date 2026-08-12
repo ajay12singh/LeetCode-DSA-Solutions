@@ -15,7 +15,7 @@ public:
 
            
 
-            while(product>=k ){
+            while(product>=k && i<=j){
 
                 product = product/nums[i];
         
