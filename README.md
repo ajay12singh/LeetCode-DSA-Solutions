@@ -50,6 +50,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -111,6 +112,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -154,6 +156,7 @@
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Ordered Set
 |  |
@@ -176,6 +179,7 @@
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2090-k-radius-subarray-averages](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## String
 |  |
