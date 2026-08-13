@@ -20,7 +20,7 @@ public:
         count[s[right]]--; // Remove character from outside frequency count
         
         // Shrink window while frequencies outside window are valid
-        while (left <= right && count['Q'] <= k && count['W'] <= k && 
+        while ( count['Q'] <= k && count['W'] <= k && 
                count['E'] <= k && count['R'] <= k) {
             min_len = min(min_len, right - left + 1);
             count[s[left]]++; // Restore character back to outside frequency
