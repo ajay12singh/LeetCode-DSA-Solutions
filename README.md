@@ -236,6 +236,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -248,6 +249,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
