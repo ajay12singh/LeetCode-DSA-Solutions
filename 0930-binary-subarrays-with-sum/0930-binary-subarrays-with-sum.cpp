@@ -16,14 +16,14 @@ public:
         {
             current_sum+=nums[j];
 
-            
+           
 
-            if(sum.count(current_sum - goal)){
+            if(current_sum - goal  >=  0){
 
                 result+=sum[current_sum - goal];
 
             }
-            sum[current_sum]++;
+             sum[current_sum]++;
             j++;
         }
 
