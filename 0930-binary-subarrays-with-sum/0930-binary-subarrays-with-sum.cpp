@@ -18,7 +18,7 @@ public:
 
            
 
-            if(current_sum - goal  >=  0){
+            if(sum.count(current_sum - goal)){
 
                 result+=sum[current_sum - goal];
 
