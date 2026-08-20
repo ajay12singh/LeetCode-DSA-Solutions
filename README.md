@@ -23,6 +23,7 @@
 | [0275-h-index-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
