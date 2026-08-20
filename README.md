@@ -18,6 +18,7 @@
 | [0162-find-peak-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -86,6 +87,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
@@ -244,6 +246,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
@@ -274,9 +277,15 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
