@@ -1,20 +1,29 @@
 class NumArray {
 private:
-    // Store the prefix sums as a member variable so all functions can access it
-    vector<int> prefix;
+    vector<int> prefix1;
+    vector<int> prefix2;
 
 public:
-    // Constructor: Precomputes the prefix sum array once
     NumArray(vector<int>& nums) {
-        prefix.resize(nums.size() + 1, 0);
-        
-        for (int i = 0; i < nums.size(); ++i) {
-            prefix[i + 1] = prefix[i] + nums[i];
+        int n = nums.size();
+        prefix1.resize(n);
+        prefix2.resize(n);
+
+        // Your logic: prefix1[i] stores the sum of elements BEFORE index i
+        prefix1[0] = 0;
+        for (int i = 1; i < n; i++) {
+            prefix1[i] = prefix1[i - 1] + nums[i - 1];
+        }
+
+        // Your logic: prefix2[i] stores the cumulative sum UP TO index i
+        prefix2[0] = nums[0];
+        for (int i = 1; i < n; i++) {
+            prefix2[i] = prefix2[i - 1] + nums[i];
         }
     }
     
-    // Member function: Answers queries using the stored prefix array
     int sumRange(int left, int right) {
-        return prefix[right + 1] - prefix[left];
+        // Your logic: total sum up to 'right' minus the sum before 'left'
+        return prefix2[right] - prefix1[left];
     }
 };
