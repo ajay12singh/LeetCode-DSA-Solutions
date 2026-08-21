@@ -44,6 +44,7 @@
 | [0904-fruit-into-baskets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -175,6 +176,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -204,6 +206,7 @@
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
