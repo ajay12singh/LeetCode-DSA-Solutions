@@ -57,6 +57,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -174,6 +175,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Ordered Set
