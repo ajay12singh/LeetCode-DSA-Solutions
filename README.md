@@ -66,6 +66,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Ordered Set
 |  |
 | ------- |
