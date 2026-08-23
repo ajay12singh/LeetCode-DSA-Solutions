@@ -1,34 +1,34 @@
-#include <vector>
+using namespace std;
 
 class NumMatrix {
 private:
-    std::vector<std::vector<int>> rowPrefix;
+    vector<vector<int>> pref;
 
 public:
-    NumMatrix(std::vector<std::vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+    NumMatrix(vector<vector<int>>& matrix) {
+        int rows = matrix.size();
+        int cols = matrix[0].size();
         
-       
-        rowPrefix = vector<vector<int>>(m + 1, vector<int>(n + 1, 0));
+        pref = vector<vector<int>>(rows + 1, vector<int>(cols + 1, 0));
         
-        for (int r = 0; r < m; ++r) {
-            for (int c = 0; c < n; ++c) {
-                
-                rowPrefix[r + 1][c + 1] = rowPrefix[r + 1][c] + matrix[r][c];
+        for (int r = 0; r < rows; ++r) {
+            int prefix = 0;
+            for (int c = 0; c < cols; ++c) {
+                prefix += matrix[r][c];
+                int above = pref[r][c + 1];
+                pref[r + 1][c + 1] = prefix + above;
             }
         }
     }
     
     int sumRegion(int row1, int col1, int row2, int col2) {
-        int totalSum = 0;
+        row1++; col1++; row2++; col2++;
         
+        int bottomRight = pref[row2][col2];
+        int above = pref[row1 - 1][col2];
+        int left = pref[row2][col1 - 1];
+        int topLeft = pref[row1 - 1][col1 - 1];
         
-        for (int r = row1; r <= row2; ++r) {
-            
-            totalSum += rowPrefix[r + 1][col2 + 1] - rowPrefix[r + 1][col1];
-        }
-        
-        return totalSum;
+        return bottomRight - above - left + topLeft;
     }
 };
