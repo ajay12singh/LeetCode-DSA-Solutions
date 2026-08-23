@@ -10,7 +10,7 @@ public:
         int n = matrix[0].size();
         
        
-        rowPrefix = std::vector<std::vector<int>>(m + 1, std::vector<int>(n + 1, 0));
+        rowPrefix = vector<vector<int>>(m + 1, vector<int>(n + 1, 0));
         
         for (int r = 0; r < m; ++r) {
             for (int c = 0; c < n; ++c) {
