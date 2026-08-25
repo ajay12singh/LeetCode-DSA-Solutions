@@ -26,10 +26,10 @@ public:
         for (int j = 0; j < n; j++) {
             current = (current + nums[j]) % p;
            
-            int remain = (current - target + p) % p;
+            int remainder = (current - target + p) % p;
             
-            if (mp.find(remain) != mp.end()) {
-                result = min(result, j - mp[remain]);
+            if (mp.find(remainder) != mp.end()) {
+                result = min(result, j - mp[remainder]);
             }
             
             
