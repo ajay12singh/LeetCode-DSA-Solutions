@@ -61,6 +61,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -189,6 +190,7 @@
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -220,6 +222,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
