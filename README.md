@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
@@ -157,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
@@ -233,6 +235,7 @@
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
@@ -328,4 +331,12 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
