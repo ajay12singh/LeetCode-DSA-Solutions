@@ -2,9 +2,9 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        double left_product = 1;
-        double right_product = 1;
-        double ans = nums[0];
+        int left_product = 1;
+        int  right_product = 1;
+        int ans = nums[0];
 
         for (int i = 0; i < n; i++) {
            
@@ -17,6 +17,6 @@ public:
             ans = max(ans, max(left_product, right_product));
         }
 
-        return (int)ans;
+        return ans;
     }
 };
