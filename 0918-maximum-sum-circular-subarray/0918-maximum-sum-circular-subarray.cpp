@@ -35,6 +35,6 @@ public:
         if (max_kadane < 0) return max_kadane;
 
         int circular_sum = total_sum - min_kadane;
-        return max_kadane > circular_sum ? max_kadane : circular_sum;
+        return max(circular_sum,max_kadane);
     }
 };
