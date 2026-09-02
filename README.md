@@ -52,6 +52,7 @@
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -167,6 +168,7 @@
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
@@ -295,6 +297,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
