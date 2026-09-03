@@ -61,6 +61,7 @@
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -169,6 +170,7 @@
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
