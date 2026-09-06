@@ -70,6 +70,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1646-get-maximum-in-generated-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
+| [1646-get-maximum-in-generated-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Sweep Line
 |  |
