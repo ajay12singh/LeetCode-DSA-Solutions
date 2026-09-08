@@ -70,6 +70,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-get-maximum-in-generated-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -165,6 +166,7 @@
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
@@ -211,6 +214,7 @@
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1732-find-the-highest-altitude) |
