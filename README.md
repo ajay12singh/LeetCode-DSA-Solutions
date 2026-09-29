@@ -272,6 +272,7 @@
 | [0018-4sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -347,6 +348,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
@@ -406,4 +408,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
