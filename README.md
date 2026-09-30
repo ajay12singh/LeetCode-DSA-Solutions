@@ -166,6 +166,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
@@ -311,6 +312,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0043-multiply-strings) |
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1646-get-maximum-in-generated-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -349,6 +351,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
