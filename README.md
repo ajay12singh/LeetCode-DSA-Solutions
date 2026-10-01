@@ -38,6 +38,7 @@
 | [0485-max-consecutive-ones](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0561-array-partition) |
@@ -102,6 +103,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
@@ -170,6 +172,7 @@
 | [0069-sqrtx](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -364,6 +367,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
