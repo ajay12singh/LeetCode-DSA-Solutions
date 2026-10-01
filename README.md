@@ -369,6 +369,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0880-decoded-string-at-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0880-decoded-string-at-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
