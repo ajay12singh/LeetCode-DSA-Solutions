@@ -1,25 +1,30 @@
 class Solution {
 public:
     vector<int> corpFlightBookings(vector<vector<int>>& bookings, int n) {
-        vector<int> diff(n + 2, 0);
+        
+            int x = bookings.size();
+            vector<int> diff(n+2,0);
 
-        for (auto &b : bookings) {
-            int start = b[0];
-            int end = b[1];
-            int count = b[2];
+            for(int i = 0 ; i<x ; i++){
+              int y =  bookings[i][0];
+               diff[y] += bookings[i][2];
+               int z = bookings[i][1];
+               diff[z+1] -=  bookings[i][2];
+            }
 
-            diff[start] += count;
-            diff[end + 1] -= count;
+
+            // int prefix = diff[0]
+
+            for(int i = 1 ; i < diff.size();i++){
+                diff[i] = diff[i-1]+diff[i];
+            }
+
+
+        vector<int> res;
+        for(int i = 1; i< diff.size()-1;i++){
+            res.push_back(diff[i]);
         }
 
-        // Cumulative sum
-        vector<int> result;
-        int cumSum = 0;
-        for (int i = 1; i <= n; i++) {
-            cumSum += diff[i];
-            result.push_back(cumSum);
-        }
-
-        return result;
+        return res;
     }
 };
