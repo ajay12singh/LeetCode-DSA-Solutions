@@ -59,6 +59,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1002-find-common-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Interactive
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0724-find-pivot-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1109-corporate-flight-bookings) |
@@ -339,6 +342,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -380,6 +384,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -435,4 +440,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
