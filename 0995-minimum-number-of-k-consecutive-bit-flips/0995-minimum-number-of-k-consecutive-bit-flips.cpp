@@ -5,27 +5,28 @@ public:
         int flips = 0;
         int flipCountFromPastForCurri = 0;
         
-        // Auxiliary array to track whether an index was flipped
-        vector<bool> isFlipped(n, false);
+        // Deque of size up to k to store flip status (1 if flipped, 0 if not)
+        deque<int> flipQ;
         
         for (int i = 0; i < n; i++) {
-            // Remove the effect of the flip that goes out of the current k-window
+            // Remove the flip effect of the element going out of the k-window
             if (i >= k) {
-                if (isFlipped[i - k]) {
-                    flipCountFromPastForCurri--;
-                }
+                flipCountFromPastForCurri -= flipQ.front();
+                flipQ.pop_front();
             }
             
             // Check if the current bit needs to be flipped
             if (flipCountFromPastForCurri % 2 == nums[i]) {
-                // If we need to flip but cannot due to array bounds
+                // If flipping requires extending beyond array boundary, it's impossible
                 if (i + k > n) {
                     return -1;
                 }
                 
                 flips++;
                 flipCountFromPastForCurri++;
-                isFlipped[i] = true;
+                flipQ.push_back(1); // Flipped at index i
+            } else {
+                flipQ.push_back(0); // Not flipped at index i
             }
         }
         
