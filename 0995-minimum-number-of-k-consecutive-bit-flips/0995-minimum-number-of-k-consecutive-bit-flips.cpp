@@ -3,30 +3,35 @@ public:
     int minKBitFlips(vector<int>& nums, int k) {
         int n = nums.size();
         int flips = 0;
-        int flipCountFromPastForCurri = 0;
+        int flipCountFromPast = 0;
         
-        // Deque of size up to k to store flip status (1 if flipped, 0 if not)
-        deque<int> flipQ;
+        // diff[i] tracks the boundary of flip effects.
+        // Size n + 1 prevents out-of-bounds when marking the end of a window at i + k.
+        vector<int> diff(n + 1, 0);
         
         for (int i = 0; i < n; i++) {
-            // Remove the flip effect of the element going out of the k-window
-            if (i >= k) {
-                flipCountFromPastForCurri -= flipQ.front();
-                flipQ.pop_front();
-            }
+            // Remove the effect of a flip window that has expired
+            flipCountFromPast ^= diff[i]; // If using XOR or standard addition/subtraction
             
-            // Check if the current bit needs to be flipped
-            if (flipCountFromPastForCurri % 2 == nums[i]) {
-                // If flipping requires extending beyond array boundary, it's impossible
+            // Alternatively, with standard sum:
+            // flipCountFromPast -= diff[i];
+            
+            // Check if current bit needs a flip
+            // (nums[i] ^ flipCountFromPast % 2) gives the effective current bit value
+            int currentBit = nums[i] ^ (flipCountFromPast & 1);
+            
+            if (currentBit == 0) {
+                // If flipping extends beyond the array boundary, it's impossible
                 if (i + k > n) {
                     return -1;
                 }
                 
                 flips++;
-                flipCountFromPastForCurri++;
-                flipQ.push_back(1); // Flipped at index i
-            } else {
-                flipQ.push_back(0); // Not flipped at index i
+                flipCountFromPast++;
+                
+                // Mark the start of the flip effect at i
+                // and its expiration right after the window ends (at i + k)
+                diff[i + k] ^= 1; // or diff[i + k] += 1 depending on implementation
             }
         }
         
