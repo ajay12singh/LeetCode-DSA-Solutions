@@ -90,6 +90,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0136-single-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Interactive
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2090-k-radius-subarray-averages](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
