@@ -93,6 +93,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Sorting
@@ -249,6 +250,7 @@
 | [2381-shifting-letters-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
@@ -284,6 +286,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2848-points-that-intersect-with-cars](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
 | ------- |
