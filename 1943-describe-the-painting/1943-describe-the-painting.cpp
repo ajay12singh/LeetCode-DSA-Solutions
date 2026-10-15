@@ -1,80 +1,46 @@
 class Solution {
 public:
+    typedef long long ll;
+
     vector<vector<long long>> splitPainting(vector<vector<int>>& segments) {
-        int max_val = 0;
-        for (int i = 0; i < segments.size(); i++) {
-            if (segments[i][1] > max_val) {
-                max_val = segments[i][1];
+        // Find the maximum index to define the size of the difference array
+        int maxR = 0;
+        for (auto& seg : segments) {
+            maxR = max(maxR, seg[1]);
+        }
+
+        // diff array to store color changes
+        // boundary array to mark start/end points of painting segments
+        vector<ll> diff(maxR + 2, 0);
+        vector<bool> boundary(maxR + 2, false);
+
+        for (auto& seg : segments) {
+            int start = seg[0];
+            int end   = seg[1];
+            int color = seg[2];
+
+            diff[start] += color;
+            diff[end]   -= color;
+
+            boundary[start] = true;
+            boundary[end]   = true;
+        }
+
+        vector<vector<ll>> result;
+        ll currentSum = 0;
+        ll prevIndex = -1;
+
+        // Sweep through the difference array
+        for (int i = 0; i <= maxR; i++) {
+            if (boundary[i]) {
+                if (currentSum > 0) {
+                    result.push_back({prevIndex, i, currentSum});
+                }
+                prevIndex = i;
             }
+            currentSum += diff[i];
         }
-        vector<long long> diff(max_val+2,0);
-        vector<bool> is_boundary(max_val + 2, false);
 
-        for(int i = 0; i < segments.size();i++){
-            int start = segments[i][0];
-            int end = segments[i][1];
-
-            diff[start] += segments[i][2];
-            diff[end] -= segments[i][2];
-
-            is_boundary[start] = true;
-            is_boundary[end] = true;
-
-
+        return result;
     }
-
-
-    for(int i = 1; i < diff.size();i++){
-        diff[i] +=diff[i-1];
-    }
-
-    int first = 0;
-    int j = 0;
-
-    while(j<diff.size() && diff[j] == 0){
-         
-         j++;
-    }
-
-    first = j;
-
-    long long int change = diff[first];
-
-    vector<vector<long long>> res;
-
-
-    for (int i = first; i <= max_val; ) {
-
-    if (diff[i] == 0) {
-        i++;
-        first = i;
-        if (i <= max_val) change = diff[i];
-        continue;
-    }
-
-    while (i <= max_val && diff[i] == change && !is_boundary[i]) {
-        i++;
-    }
-    if (i <= max_val && diff[i] == change && is_boundary[i] && i == first) {
-        i++;
-        while (i <= max_val && diff[i] == change && !is_boundary[i]) {
-            i++;
-        }
-    }
-
-    int last = i;
-    res.push_back({(long long)first, (long long)last, change});
-
-    first = last;
-    if (first <= max_val) change = diff[first];
-}
-
-
-
-        return res;
-
-
-
-    }
-
 };
