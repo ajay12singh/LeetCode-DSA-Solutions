@@ -1,34 +1,37 @@
+
 class Solution {
 public:
     vector<int> fullBloomFlowers(vector<vector<int>>& flowers, vector<int>& people) {
-        
-        map<int, int> diff;
+        int m = flowers.size();
+        int n = people.size();
 
-        for (int i = 0 ; i < flowers.size() ; i++) {
-            int start = flowers[i][0];
-            int end = flowers[i][1];
+        vector<int> start_time(m);
+        vector<int> end_time(m);
 
-            diff[start] += 1;
-            diff[end + 1] -= 1;
+        for (int i = 0; i < m; i++) {
+            start_time[i] = flowers[i][0];
+            end_time[i] = flowers[i][1];
         }
 
-        int running_sum = 0;
-        for (auto& [time, count] : diff) {
-            running_sum += count;
-            count = running_sum;
+      
+        sort(start_time.begin(), start_time.end());
+        sort(end_time.begin(), end_time.end());
+
+        vector<int> result(n);
+
+        for (int i = 0; i < n; i++) {
+            int time = people[i];
+
+          
+            int bloomed_already = upper_bound(start_time.begin(), start_time.end(), time) - start_time.begin();
+
+           
+            int died_already = lower_bound(end_time.begin(), end_time.end(), time) - end_time.begin();
+
+            
+            result[i] = bloomed_already - died_already;
         }
 
-        vector<int> res;
-
-        for (int i = 0 ; i < people.size() ; i++) {
-            auto it = diff.upper_bound(people[i]);
-            if (it == diff.begin()) {
-                res.push_back(0);
-            } else {
-                res.push_back(prev(it)->second);
-            }
-        }
-
-        return res;
+        return result;
     }
 };
