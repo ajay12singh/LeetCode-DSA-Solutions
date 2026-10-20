@@ -23,7 +23,7 @@ class Solution {
            
             second_sum += nums[i] - nums[p3];
             p3++;
-            p4++;
+            
 
            
             first_sum += nums[p2 + 1] - nums[p1];
