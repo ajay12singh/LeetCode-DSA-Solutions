@@ -2,45 +2,33 @@ class Solution {
 public:
     int getMaximumGenerated(int n) {
 
-         int ans = 0;
-         vector<int> arr( n+1,0);
-         if(n==0) return 0;
-         if(n==1) return 1;
-         arr[0] = 0;
-         arr[1]=1;
-        //  if(n==2) return 1;
 
-         for(int i = 1; i<=n/2;i++){
+        vector<int> nums(n+1);
 
-                if(i == (float)n/2){
-                arr[2*i] =arr[i];
-                // arr[2*i+1] = arr[i]+arr[i+1];
-                ans = max(ans,arr[2*i]);
-                }
-                else{
-                arr[2*i] =arr[i];
-                arr[2*i+1] = arr[i]+arr[i+1];
-                ans = max(ans,arr[2*i+1]);
+        if(n==0 ) return 0;
+        if(n==1) return 1;
 
 
-                }
-                // else{
-                //     if(i<n/2){
-                //          arr[2*i] =arr[i];
-                //          arr[2*i+1] = arr[i]+arr[i+1];
+        nums[0] = 0;
+        nums[1] = 1;
+        int ans = 0;
 
-                //     }
-                //     else if(i == n/2){
-                //         arr[2*i] =arr[i];
+        for(int i = 0 ; i <= n/2 ; i++){
 
-                //     }
+            nums[2*i] = nums[i];
+            if(2*i + 1 <=  n ){
+                nums[2*i + 1 ] = nums[i] + nums[i+1];
+                int maxi = max(nums[2*i] ,nums[2*i+1]);
+                ans = max(ans,maxi);
+            }
 
-                    // ans = max(ans,arr[2*i]);
-                }
+
+            // ans = max(ans,nums[2*i],nums[2*i+1]);
+
+
+        }
 
          
-
-         return ans;
-        
+        return ans;
     }
 };
