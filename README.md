@@ -93,6 +93,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2321-maximum-score-of-spliced-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2381-shifting-letters-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2381-shifting-letters-ii) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -214,6 +215,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2321-maximum-score-of-spliced-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
