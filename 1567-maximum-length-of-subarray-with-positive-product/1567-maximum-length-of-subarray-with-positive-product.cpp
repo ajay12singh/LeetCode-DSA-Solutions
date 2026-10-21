@@ -1,51 +1,40 @@
 class Solution {
 public:
     int getMaxLen(vector<int>& nums) {
-        int neg_count = 0;
+        int n = nums.size();
+        int max_len = 0;
 
-        int ans = 0 ;
-        int  start = 0;
-        int first_neg = -1;
-       
-        
-
-        for(int i = 0 ; i < nums.size() ; i++){
-
-
-            if(nums[i] == 0) {
-
-                start = i+1;
+        // Pass 1: Left to Right (Handles dropping up to first negative)
+        int neg_count = 0, len = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == 0) {
                 neg_count = 0;
-                first_neg = -1;
-
-            }
-
-            if((nums[i]< 0)){
-
-                neg_count++;
-                if(first_neg == -1) first_neg = i;
-                if(neg_count%2 ==0) ans = max(ans,i-start+1);
-
-                else ans = max(ans,i-first_neg);
-
-
-            }
-
-            else{
-
-
-                if(neg_count%2 == 0)
-                 ans = max(ans,i-start+1);
-                else {
-                 ans = max(ans,i-first_neg);
+                len = 0;
+            } else {
+                if (nums[i] < 0) neg_count++;
+                len++;
+                if (neg_count % 2 == 0) {
+                    max_len = max(max_len, len);
                 }
             }
-
-
-
         }
 
-        return ans;
-        
+        // Pass 2: Right to Left (Handles dropping from last negative onwards)
+        neg_count = 0;
+        len = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (nums[i] == 0) {
+                neg_count = 0;
+                len = 0;
+            } else {
+                if (nums[i] < 0) neg_count++;
+                len++;
+                if (neg_count % 2 == 0) {
+                    max_len = max(max_len, len);
+                }
+            }
+        }
+
+        return max_len;
     }
 };
