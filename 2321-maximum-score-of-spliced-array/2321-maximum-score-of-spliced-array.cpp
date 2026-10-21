@@ -1,38 +1,30 @@
 class Solution {
 public:
     int maximumsSplicedArray(vector<int>& nums1, vector<int>& nums2) {
-
-        vector<int> cum_sum(nums1.size());
-        vector<int> cum_sum2(nums2.size());
-
+        int n = nums1.size();
         
-        cum_sum[0] = nums1[0];
-        for(int i = 1 ; i < cum_sum.size() ; i++){
-            cum_sum[i] = cum_sum[i-1] + nums1[i];
+        int sum1 = 0, sum2 = 0;
+        for (int i = 0; i < n; i++) {
+            sum1 += nums1[i];
+            sum2 += nums2[i];
         }
-
-        cum_sum2[0] = nums2[0];
-        for(int i = 1 ; i < cum_sum2.size() ; i++){
-            cum_sum2[i] = cum_sum2[i-1] + nums2[i];
-        }
-
-        int total1 = cum_sum.back();
-        int total2 = cum_sum2.back();
 
         
         int max_gain1 = 0, current_gain1 = 0;
-        for (int r = 0; r < nums1.size(); r++) {
-            current_gain1 = max(0, current_gain1 + (nums2[r] - nums1[r]));
+        for (int i = 0; i < n; i++) {
+            int diff1 = nums2[i] - nums1[i];
+            current_gain1 = max(0, current_gain1 + diff1);
             max_gain1 = max(max_gain1, current_gain1);
         }
 
-      
+        
         int max_gain2 = 0, current_gain2 = 0;
-        for (int r = 0; r < nums2.size(); r++) {
-            current_gain2 = max(0, current_gain2 + (nums1[r] - nums2[r]));
+        for (int i = 0; i < n; i++) {
+            int diff2 = nums1[i] - nums2[i];
+            current_gain2 = max(0, current_gain2 + diff2);
             max_gain2 = max(max_gain2, current_gain2);
         }
 
-        return max(total1 + max_gain1, total2 + max_gain2);
+        return max(sum1 + max_gain1, sum2 + max_gain2);
     }
 };
