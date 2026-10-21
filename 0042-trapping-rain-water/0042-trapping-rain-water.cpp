@@ -2,40 +2,49 @@ class Solution {
 public:
     int trap(vector<int>& height) {
 
-        vector<int> left_max(height.size(),0);
 
-        vector<int> right_max(height.size(),0);
-
-        int maxi = 0;
-
-        for(int i = 0; i < height.size();i++){
-
-            left_max[i] = maxi;
- 
-            maxi = max(height[i],maxi);
-            
-
-        }
-        maxi= 0;
-         for(int i = height.size() - 1; i>=0 ;i--){
-
-            right_max[i] = maxi;
- 
-            maxi = max(height[i],maxi);
-            
-
-        }
-
-int ans = 0;
-        for(int i = 0; i< height.size();i++){
-
-            if(height[i]<min(left_max[i],right_max[i])){
-                ans += min(left_max[i],right_max[i])-height[i];
-            }
-        }
-
-return ans;
-
+        int n = height.size();
+        vector<int> minima(n,0);
         
+        vector<int> maxima(n,0);
+
+        int minimum =height[0];
+        minima[0] = height[0];
+
+        for(int i = 1 ; i < n; i++){
+
+            minima[i] = minimum;
+            minimum = max(minimum , height[i]);
+
+        }
+        int maxi = height[n-1];
+        maxima[n-1] = height[n-1];
+
+        for(int i = n-2 ; i >= 0; i--){
+
+            maxima[i] = maxi;
+            maxi = max(maxi,height[i]);
+
+        }
+
+
+        // calculate our result;
+
+        int ans = 0;
+
+
+        for(int i = 1 ; i < n-1 ; i++){
+
+            int mini = min(maxima[i],minima[i]);
+            
+            
+            if(mini - height[i] > 0) {
+                ans += mini - height[i];
+            }
+           
+
+        }
+
+        return ans;
     }
 };
