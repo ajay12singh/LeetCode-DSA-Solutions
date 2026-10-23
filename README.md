@@ -222,6 +222,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2272-substring-with-largest-variance](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2272-substring-with-largest-variance) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -312,6 +313,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1943-describe-the-painting](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1943-describe-the-painting) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2272-substring-with-largest-variance](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2272-substring-with-largest-variance) |
 | [2848-points-that-intersect-with-cars](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [2272-substring-with-largest-variance](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2272-substring-with-largest-variance) |
 ## Counting Sort
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2272-substring-with-largest-variance](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2272-substring-with-largest-variance) |
 | [2381-shifting-letters-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2381-shifting-letters-ii) |
 ## Queue
 |  |
