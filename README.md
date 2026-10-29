@@ -37,6 +37,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
@@ -121,6 +122,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
@@ -239,6 +241,7 @@
 | [0409-longest-palindrome](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
