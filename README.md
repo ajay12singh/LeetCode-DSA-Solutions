@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0275-h-index-ii) |
@@ -120,6 +121,7 @@
 | [0056-merge-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [0349-intersection-of-two-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -148,6 +150,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
@@ -296,6 +299,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1818-minimum-absolute-sum-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -304,6 +308,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -394,6 +399,7 @@
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 | [0986-interval-list-intersections](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0986-interval-list-intersections) |
 ## Sliding Window
 |  |
@@ -527,4 +533,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
