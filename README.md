@@ -249,6 +249,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -319,6 +320,7 @@
 | [0525-contiguous-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -360,6 +362,7 @@
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
@@ -441,6 +444,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [0880-decoded-string-at-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
