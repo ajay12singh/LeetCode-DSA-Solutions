@@ -103,6 +103,7 @@
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2321-maximum-score-of-spliced-array) |
 | [2381-shifting-letters-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -143,6 +144,7 @@
 | [2070-most-beautiful-item-for-each-query](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Prefix Sum
@@ -283,6 +287,7 @@
 | [1943-describe-the-painting](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1943-describe-the-painting) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2381-shifting-letters-ii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2439-minimize-maximum-of-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2848-points-that-intersect-with-cars) |
@@ -363,6 +368,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Enumeration
 |  |
