@@ -69,6 +69,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1014-best-sightseeing-pair) |
+| [1024-video-stitching](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1094-car-pooling) |
@@ -230,6 +231,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1014-best-sightseeing-pair) |
+| [1024-video-stitching](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
@@ -255,6 +257,7 @@
 | [0763-partition-labels](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0948-bag-of-tokens) |
+| [1024-video-stitching](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1024-video-stitching) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
