@@ -41,6 +41,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0539-minimum-time-difference) |
@@ -327,6 +328,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0880-decoded-string-at-index](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0880-decoded-string-at-index) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -505,6 +508,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/ajay12singh/LeetCode-DSA-Solutions/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
