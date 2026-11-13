@@ -16,7 +16,7 @@ public:
                 st.pop();
                 ans[x] = nums[k];
             }
-            // if(i < nums.size())
+        if(i < nums.size())
              st.push(k);
 
          }
